@@ -1,0 +1,35 @@
+/*
+  Main Stylesheet
+  ****************************
+  File:     main.scss
+  Author:   Rein Van Leirsberghe
+  E-mail:   reinvanleirsberghe@hotmail.com
+*/
+/*
+  Variables Stylesheet
+  ****************************
+  File:     _variables.scss
+  Author:   Rein Van Leirsberghe
+  E-mail:   reinvanleirsberghe@hotmail.com
+*/
+/*
+  Navigation Stylesheet
+  ****************************
+  File:     _navigation.scss
+  Author:   Rein Van Leirsberghe
+  E-mail:   reinvanleirsberghe@hotmail.com
+*/
+body {
+  padding-top: 70px; }
+
+/*
+  Forms Stylesheet
+  ****************************
+  File:     _forms.scss
+  Author:   Rein Van Leirsberghe
+  E-mail:   reinvanleirsberghe@hotmail.com
+*/
+.error {
+  display: block;
+  margin-top: 5px;
+  color: #a94442; }
