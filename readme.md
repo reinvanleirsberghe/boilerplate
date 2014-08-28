@@ -28,3 +28,10 @@ sudo vi /etc/hosts
 
 127.0.0.1    boilerplate.app
 ```
+
+cd into homestead and do a 'vagrant reload' and 'vagrant provison'
+
+vm into the site
+Do a ‘composer update’ (composer.json)
+Do a ‘npm install’  (package.json)
+Do a ‘bower install’ (bower.json)
