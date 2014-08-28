@@ -42,5 +42,9 @@ Create a local database and create a  `.env.local.php` file with the data of the
 Create local test database and create a `.env.testing.php` file with the data of the database you just made
 
 `vm` into the site
+
 Do a `php artisan migrate`
+
 Do a `php artisan migrate --env=testing`
+
+Good to go!
