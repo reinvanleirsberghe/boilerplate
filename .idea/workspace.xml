@@ -22,13 +22,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RemindersController.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="RemindersController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/RemindersController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="65" selection-start="1973" selection-end="1973" vertical-scroll-proportion="1.3919214" vertical-offset="0" max-vertical-offset="1800">
+            <state line="17" column="7" selection-start="321" selection-end="321" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="1800">
               <folding>
                 <element signature="e#7#39#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="6" selection-start="38" selection-end="38" vertical-scroll-proportion="0.031914894" vertical-offset="0" max-vertical-offset="940">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,15 +64,6 @@
         <entry file="file://$PROJECT_DIR$/app/start/global.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="63" column="82" selection-start="1872" selection-end="1939" vertical-scroll-proportion="-14.416667" vertical-offset="464" max-vertical-offset="1380">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SessionsController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/SessionsController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="5" selection-start="94" selection-end="344" vertical-scroll-proportion="-10.625" vertical-offset="30" max-vertical-offset="1155">
               <folding />
             </state>
           </provider>
@@ -126,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/Boilerplate/Forms/AccountForm.php" />
         <option value="$PROJECT_DIR$/app/Boilerplate/Users/Events/UserUpdated.php" />
         <option value="$PROJECT_DIR$/app/Boilerplate/Users/Events/UserRegistered.php" />
         <option value="$PROJECT_DIR$/app/Boilerplate/Registration/RegisterUserCommandHandler.php" />
@@ -177,6 +176,7 @@
         <option value="$PROJECT_DIR$/app/views/password/reset.blade.php" />
         <option value="$PROJECT_DIR$/app/Boilerplate/Forms/ResetForm.php" />
         <option value="$PROJECT_DIR$/app/controllers/RemindersController.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -228,38 +228,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="start" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -461,11 +429,6 @@
     <entry file="file://$PROJECT_DIR$/app/views/layouts/partials/ajax-errors.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="6" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="10" selection-start="70" selection-end="70" vertical-scroll-proportion="0.05952381" vertical-offset="0" max-vertical-offset="1008" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
@@ -671,10 +634,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/RemindersController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="65" selection-start="1973" selection-end="1973" vertical-scroll-proportion="1.3919214" vertical-offset="0" max-vertical-offset="1800">
+        <state line="17" column="7" selection-start="321" selection-end="321" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="1800">
           <folding>
             <element signature="e#7#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="38" selection-end="38" vertical-scroll-proportion="0.031914894" vertical-offset="0" max-vertical-offset="940">
+          <folding />
         </state>
       </provider>
     </entry>
