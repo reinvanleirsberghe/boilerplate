@@ -80,7 +80,7 @@ return array(
 	|
 	*/
 
-	'username' => 'reinvanleirsberghe@gmail.com',
+	'username' => null,
 
 	/*
 	|--------------------------------------------------------------------------
@@ -93,7 +93,7 @@ return array(
 	|
 	*/
 
-	'password' => 'ziekdazeidegij',
+	'password' => null,
 
 	/*
 	|--------------------------------------------------------------------------
