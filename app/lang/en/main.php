@@ -11,6 +11,8 @@ return array(
 	'welcome'   => 'Welcome on your boilerplate!',
 	'start'		=> 'Start here when creating a website where users can sign in.',
 
+    'submit'    => 'Submit',
+
 	'signup'    => 'Sign Up',
 	'login'     => 'Log In',
 	'logout'    => 'Log Out',
@@ -18,5 +20,6 @@ return array(
 	'firstname' => 'Firstname',
 	'name'      => 'Name',
 	'email'     => 'Email',
-	'password'  => 'Password'
+	'password'  => 'Password',
+    'password_confirmation' => "Password confirmation"
 );

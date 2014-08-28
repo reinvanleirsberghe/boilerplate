@@ -51,3 +51,8 @@ Route::get('logout', [
 	'as'   => 'logout_path',
 	'uses' => 'SessionsController@destroy'
 ]);
+
+/*
+ * Password resets
+ */
+Route: Route::controller('password', 'RemindersController');

@@ -4,12 +4,12 @@
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
-        "laravel/framework": "4.*",
+        "laravel/framework": "4.2.*",
         "laracasts/validation": "1.1.*",
         "laracasts/commander": "~1.0",
         "laracasts/flash": "~1.0",
         "laracasts/presenter": "0.1.*",
-        "laracasts/utilities": "0.5"
+        "laracasts/utilities": "~1.0"
     },
     "require-dev": {
         "way/generators": "~2.0",
