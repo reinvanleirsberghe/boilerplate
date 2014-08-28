@@ -36,3 +36,11 @@ cd into homestead and do a `vagrant reload` and `vagrant provison`
 Depending on the files that are available
 
 Do a `composer update` (composer.json), a `npm install` (package.json) and a `bower install` (bower.json)
+
+Create a local database and create a  `.env.local.php` file with the data of the database you just made
+
+Create local test database and create a `.env.testing.php` file with the data of the database you just made
+
+`vm` into the site
+Do a `php artisan migrate`
+Do a `php artisan migrate --env=testing`
